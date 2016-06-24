@@ -61,7 +61,7 @@ Here's a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/kqeoBko"><img src="http://imgur.com/kqeoBko.gif" title="source: imgur.com" /></a>
 
-**The GIF wouldn't load, so I shared it at this [link](http://imgur.com/kqeoBko)
+*The GIF wouldn't load, so I shared it at this [link](http://imgur.com/kqeoBko)*
 
 **Switch between all tabs**
 
