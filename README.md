@@ -53,6 +53,10 @@ Here's a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/paZXAzL"><img src="http://imgur.com/paZXAzL.gif" title="source: imgur.com" /></a>
 
+**user persists, post picture, view user posts**
+
+<a href="http://http://imgur.com/IDC0w9C"><img src="http://http://imgur.com/IDC0w9C.gif" title="source: imgur.com" /></a>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Credits
