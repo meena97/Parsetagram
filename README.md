@@ -36,12 +36,14 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 - I added a couple of animations
 - I added a "Search" and "Activity" page as well, but those are there just for a better UI experience. I ran out of time to add any functionality :(
+- I added a "Direct Messages" page, but again, it is there for a better UI experience.
+- I added an "Options" page, that allows the user to "Log Out". A couple of the other buttons also have some functionality - For example, when you click on the buttons in the "ABOUT" or "SUPPORT" sections, it takes you to the corresponding webpage.
 - I added a label that keeps track of the number of comments per post (in addition to the number of likes)
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Implmenting "follower" and "following" features.
+2. Implement the activity and search bar functionality.
 
 ## Video Walkthrough
 
@@ -56,11 +58,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+- [Parse]
+- For the heart "like" animation, I found a helpful open sourced class.
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- There were so many features to keep track off, I sometimes got lost in the details/implementations.
+- I had a hard time with storing and posting comments/likes, and also storing the profile pictures.
 
 ## License
 
