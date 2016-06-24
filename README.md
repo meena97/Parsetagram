@@ -34,11 +34,12 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-- I added a couple of animations
-- I added a "Search" and "Activity" page as well, but those are there just for a better UI experience. I ran out of time to add any functionality :(
-- I added a "Direct Messages" page, but again, it is there for a better UI experience.
-- I added an "Options" page, that allows the user to "Log Out". A couple of the other buttons also have some functionality - For example, when you click on the buttons in the "ABOUT" or "SUPPORT" sections, it takes you to the corresponding webpage.
-- I added a label that keeps track of the number of comments per post (in addition to the number of likes)
+- Added a couple of animations
+- Added a launch screen and an App icon
+- Added a "Search" and "Activity" page as well, but those are there just for a better UI experience. I ran out of time to add any functionality :(
+- Added a "Direct Messages" page, but again, it is there for a better UI experience.
+- Added an "Options" page, that allows the user to "Log Out". A couple of the other buttons also have some functionality - For example, when you click on the buttons in the "ABOUT" or "SUPPORT" sections, it takes you to the corresponding webpage.
+- Added a label that keeps track of the number of comments per post (in addition to the number of likes)
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
