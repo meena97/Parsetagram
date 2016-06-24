@@ -49,7 +49,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<a href="http://imgur.com/BV3Xe3a"><img src="http://imgur.com/BV3Xe3a.gif" title="source: imgur.com" /></a>
+**Sign-Up, Login, Logout**
+
+<a href="http://imgur.com/paZXAzL"><img src="http://imgur.com/paZXAzL.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
